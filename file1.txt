@@ -1,2 +1,2 @@
-text for first commit of MAIN
+text for first commit of MAIN #before switch to Testing
 text for second commit of Main
